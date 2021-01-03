@@ -7,6 +7,7 @@ What to expect
 Read some text file and print:
 
 * words count;
+* word repetitions count;
 * total of different words;
 * total of words in text;
 * characters count method;
